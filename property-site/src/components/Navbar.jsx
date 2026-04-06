@@ -2,7 +2,7 @@ import React from 'react'
 
 function Navbar() {
   return (
-    <div className="w-full h-fit py-5.5 bg-green-800 border-b border-gray-300">
+    <div className="w-full h-fit py-5.5 bg-green-800 border-b">
         <nav className="flex flex-row items-center justify-center">
             
             <ul className="flex flex-row space-x-10">
